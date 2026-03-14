@@ -62,7 +62,7 @@ captcha
 If Git is installed:
 
 ```
-git clone https://github.com/YOUR_USERNAME/rage-captcha-dumbathon.git
+git clone https://github.com/Harshi-1687/rage-captcha-dumbathon.git
 ```
 
 Then open the project folder and run:
