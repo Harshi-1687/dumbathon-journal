@@ -1,0 +1,43 @@
+body{
+background:#fff3a6;
+font-family:"Comic Sans MS", cursive;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+}
+
+.captcha-card{
+background:white;
+border:6px solid black;
+padding:30px;
+width:450px;
+box-shadow:10px 10px 0 black;
+}
+
+button{
+border:4px solid black;
+padding:15px;
+font-size:18px;
+cursor:pointer;
+margin:10px;
+}
+
+.floating{
+position:relative;
+height:200px;
+}
+
+.float-number{
+position:absolute;
+cursor:pointer;
+}
+
+.button-area{
+position:relative;
+height:200px;
+}
+
+.verify{
+position:absolute;
+}
